@@ -6,7 +6,7 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
 - 🌱 I’m currently learning ReactJs,Javasript,Kotlin.
 - 👯 I’m looking to collaborate on building communities.
 - 💬 Ask me about Web development,Android development,Competitive Programming
-- 📫 How to reach me: mathuranant123@gmail.com,[@NoobSolver](https://twitter.com/NoobSolver)
+- 📫 How to reach me: 18BCS2035@cuchd.in,[@NoobSolver](https://twitter.com/NoobSolver)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play games.
 
