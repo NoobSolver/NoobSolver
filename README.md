@@ -1,9 +1,6 @@
 ### Hi,I'm Gaurav Kumar👋
 
 I am currently a undergrad CS student and working for Open-Source Organisations.
-<!--
-**NoobSolver/NoobSolver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on Android projects.
 - 🌱 I’m currently learning ReactJs,Javasript,Kotlin.
@@ -12,6 +9,6 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
 - 📫 How to reach me: mathuranant123@gmail.com,@NoobSolver.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play games.
--->
--[Twitter](https://twitter.com/NoobSolver) -[Linkedin](https://www.linkedin.com/in/gaurav-kumar-mathur-641823177)
+
+[Twitter](https://twitter.com/NoobSolver)[Linkedin](https://www.linkedin.com/in/gaurav-kumar-mathur-641823177)
 
