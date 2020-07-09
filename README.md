@@ -1,4 +1,5 @@
 ### Hi,I'm Gaurav Kumar👋
+:Discord:  :Twitter:
 
 I am currently a undergrad CS student and working for Open-Source Organisations.
 
