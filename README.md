@@ -10,5 +10,5 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play games.
 
-[Twitter](https://twitter.com/NoobSolver)[Linkedin](https://www.linkedin.com/in/gaurav-kumar-mathur-641823177)
+--[Twitter](https://twitter.com/NoobSolver)--[Linkedin](https://www.linkedin.com/in/gaurav-kumar-mathur-641823177)
 
