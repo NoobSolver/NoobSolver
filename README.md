@@ -1,5 +1,16 @@
 ### Hi,I'm Gaurav Kumar👋
 
+</a>
+<a href="https://twitter.com/NoobSolver">
+  <img align="left" alt="Gaurav Mathur | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.com/channels/707238618019660299/708367633011048558">
+  <img align="left" alt="Gaurav's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+<br />
+<br />
+
 I am currently a undergrad CS student and working for Open-Source Organisations.
 
 - 🔭 I’m currently working on Android projects.
