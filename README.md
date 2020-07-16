@@ -23,4 +23,4 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
 * [Twitter](https://twitter.com/NoobSolver)
 * [Linkedin](https://www.linkedin.com/in/gaurav-kumar-mathur-641823177)
 
-## Cool thing Coming Soon
+<img src="https://github-readme-stats.vercel.app/api?username=NoobSolver&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
