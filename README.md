@@ -15,7 +15,7 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
 - 🔭 I’m currently working on Android projects.
 - 🌱 I’m currently learning ReactJs,Javasript,Kotlin.
 - 👯 I’m looking to collaborate on building communities.
-- 💬 Ask me about Web development,Android development,Competitive Programming
+- 💬 Ask me about Android development,Competitive Programming,Web development
 - 📫 How to reach me: 18BCS2035@cuchd.in,[@NoobSolver](https://twitter.com/NoobSolver)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play games.
@@ -34,9 +34,8 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSolver&layout=compact&theme=radical" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoobSolver&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NoobSolver&repo=github-readme-stats&theme=radical" />
 </a>    
 
