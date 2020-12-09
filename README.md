@@ -39,3 +39,6 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
 <br>
 <br>
 
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=NoobSolver" />
+</p>
