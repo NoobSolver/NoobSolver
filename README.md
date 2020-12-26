@@ -35,7 +35,7 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobSolver&layout=compact&theme=radical" />
 </a>
  
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
+<img src="https://github.com/NoobSolver/NoobSolver/blob/master/dino.gif">
 <br>
 <br>
 
