@@ -15,7 +15,7 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
 - 🔭 I’m currently working on Android projects.
 - 🌱 I’m currently learning ReactJs,Javasript,Kotlin.
 - 👯 I’m looking to collaborate on building communities.
-- 💬 Ask me about App development,Competitive Programming.
+- 💬 Ask me about App development,Data Structures and Algorithms ,CP.
 - 📫 How to reach me: gauravmathur594@gmail.com,[@NoobSolver](https://twitter.com/NoobSolver)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play games.
