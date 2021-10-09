@@ -1,17 +1,29 @@
 ### Hi,I'm Gaurav Kumar👋
 
-</a>
-<a href="https://twitter.com/NoobSolver">
-  <img align="left" alt="Gaurav Mathur | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/G7Uy75">
-  <img align="left" alt="Gaurav's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gaurav-kumar-mathur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
+<a href="https://twitter.com/NoobSolver/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp; 
+
+![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
+
+<div align="center" width="50">
+
+
+</div>
+
+
+  
+
+</div>
+
 
 <br />
 
-I am currently a undergrad CS student and working for Open-Source Organisations.
 
+
+- 🤝 I'm currently a undergrad CS student and working for Open-Source Organisations.
 - 🔭 I’m currently working on Android projects.
 - 🌱 I’m currently learning ReactJs,Javasript,Kotlin.
 - 👯 I’m looking to collaborate on building communities.
@@ -42,3 +54,7 @@ I am currently a undergrad CS student and working for Open-Source Organisations.
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=NoobSolver" />
 </p>
+
+
+
+ <i>Happy Coding!</i> 😊
