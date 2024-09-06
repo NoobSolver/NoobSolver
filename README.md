@@ -23,14 +23,15 @@
 
 
 
-- 🤝 I'm currently a undergrad CS student and working for Open-Source Organisations.
-- 🔭 I’m currently working on Android projects.
-- 🌱 I’m currently learning ReactJs,Javasript,Kotlin.
+- 🤝 I'm a Software Engineer having around 2 YOE working with some cool stuffs along with company projects.
+- 🔥 I'm a public speaker who used to give different talks in various community events.
+- 🔭 I’m currently focusing on Backend Technologies.
+- 🌱 I’m currently learning Mongodb, GEN AI ,Golang, Flask,AWS etc.
 - 👯 I’m looking to collaborate on building communities.
-- 💬 Ask me about App development,Data Structures and Algorithms ,CP.
+- 💬 Ask me about Full stack development,Data Structures and Algorithms, System Design, Design Patterns.
 - 📫 How to reach me: gauravmathur594@gmail.com,[@NoobSolver](https://twitter.com/NoobSolver)
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I play games.
+- ⚡ Fun fact: I am always crazy for new things.
 
 **Languages and Tools:**  
 
