@@ -23,10 +23,10 @@
 
 
 
-- 🤝 I'm a Software Engineer having around 2 YOE working with some cool stuffs along with company projects.
+- 🤝 I'm a Software Engineer having around 4 YOE working with some cool stuffs along with company projects.
 - 🔥 I'm a public speaker who used to give different talks in various community events.
 - 🔭 I’m currently focusing on Backend Technologies.
-- 🌱 I’m currently learning Mongodb, GEN AI ,Golang, Flask,AWS etc.
+- 🌱 I’m currently learning Mongodb, GEN AI ,Agentic AI ,Golang, Flask,AWS etc.
 - 👯 I’m looking to collaborate on building communities.
 - 💬 Ask me about Full stack development,Data Structures and Algorithms, System Design, Design Patterns.
 - 📫 How to reach me: gauravmathur594@gmail.com,[@NoobSolver](https://twitter.com/NoobSolver)
